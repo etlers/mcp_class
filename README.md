@@ -1,6 +1,7 @@
 # mcp_class
 ## 기본 MCP 서버를 고객 별로 상속 받아서 사용
 
+
 mcp_servers/
 ├─ core/
 │  ├─ base.py            # BaseMCPServer (템플릿 메서드)

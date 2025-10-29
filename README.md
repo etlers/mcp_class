@@ -10,7 +10,7 @@ mcp_servers/
 │  ├─ base.py            # BaseMCPServer (템플릿 메서드)
 │  ├─ toolkit.py         # Tool 프로토콜/믹스인/등록기
 │  └─ settings.py        # 공통 설정(Pydantic)
-├─ tools/
+├─ tools/                # 각 MCP 서버에 필요한 툴 설정
 │  ├─ k8s.py             # k8s 관련 툴
 │  ├─ wiz.py             # wiz 관련 툴
 │  ├─ azure.py           # azure 관련 툴
